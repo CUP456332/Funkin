@@ -82,7 +82,7 @@ class PlayState extends MusicBeatState
 	private var combo:Int = 0;
 
 	private var healthBarBG:FlxSprite;
-	private var healthBar:FlxBar;
+	private var healthBar:FlxBar;(0xFF2D84F6, 0xFFFF3939)
 
 	private var generatedMusic:Bool = false;
 	private var startingSong:Bool = false;
